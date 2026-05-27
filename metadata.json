@@ -1,0 +1,6 @@
+{
+  "name": "duvi",
+  "description": "A social experience for chatting, sending snaps, placing video and audio calls, and playing quick built-in games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
